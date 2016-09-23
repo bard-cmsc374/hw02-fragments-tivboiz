@@ -4,7 +4,6 @@ package edu.bard.todolist_lab1;
  */
 
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentActivity;
 import android.util.Log;
 
 
