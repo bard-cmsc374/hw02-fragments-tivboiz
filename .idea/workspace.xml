@@ -6,52 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7ce3a0e-cae3-40d9-9653-8fb543cfaad4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/bard/todolist_lab1/AddFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/bard/todolist_lab1/AddFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/bard/todolist_lab1/AddFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/bard/todolist_lab1/AddFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/bard/todolist_lab1/AddFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/bard/todolist_lab1/AddFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/bard/todolist_lab1/AddFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/edu/bard/todolist_lab1/AddFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_b515897b097ce22e40475105a839dc9424e40bc3.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_b515897b097ce22e40475105a839dc9424e40bc3.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_24826b460bec88f3fb030dbe8945632f208dab26.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_24826b460bec88f3fb030dbe8945632f208dab26.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_cad7dfefe783c10295bc7199c2e8a180010170c3.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_cad7dfefe783c10295bc7199c2e8a180010170c3.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_fb53633c0aaf489a2bc09c0deb08ac7c2dfc3998.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_fb53633c0aaf489a2bc09c0deb08ac7c2dfc3998.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_b5982d6887778d4476bae2c0bb9dffdb8f15d501.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_b5982d6887778d4476bae2c0bb9dffdb8f15d501.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_2397afb3fd04458860f0f5c2cf1f995eea058afc.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_2397afb3fd04458860f0f5c2cf1f995eea058afc.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_13561f90a183f8c9308a60ce5bdf413cb4d0d1c7.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_13561f90a183f8c9308a60ce5bdf413cb4d0d1c7.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/instant-run_204fb021e64a277c2721498db48b84226312f015.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/instant-run_204fb021e64a277c2721498db48b84226312f015.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0875fc09fc4e37fa59fc75e3696a216e9ca0c5da.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0875fc09fc4e37fa59fc75e3696a216e9ca0c5da.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0dfb71ca62014e8f60e0a40716ba15f7b18d86b2.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0dfb71ca62014e8f60e0a40716ba15f7b18d86b2.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_170e8d528a41b01fb35c7784bc6bf4bacf133050.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_170e8d528a41b01fb35c7784bc6bf4bacf133050.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1bafa13b4759e62e89e196f751cbfe2ccf04b370.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1bafa13b4759e62e89e196f751cbfe2ccf04b370.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_483a45d256a493af290469a8cae0db3ce00a7bcd.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_483a45d256a493af290469a8cae0db3ce00a7bcd.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/main_c513c4165fb7c2acc5890c97496c949fa6e38cc5.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/main_c513c4165fb7c2acc5890c97496c949fa6e38cc5.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_b91b3ed4c5e3f2ea34084f2a4922e646abfe06ab.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_b91b3ed4c5e3f2ea34084f2a4922e646abfe06ab.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/edu/bard/todolist_lab1/AddFragment$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/edu/bard/todolist_lab1/AddFragment$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/edu/bard/todolist_lab1/AddFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/edu/bard/todolist_lab1/AddFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-    </list>
+    <list default="true" id="c7ce3a0e-cae3-40d9-9653-8fb543cfaad4" name="Default" comment="" />
     <ignored path="hw02-fragments-tivboiz.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,8 +34,8 @@
       <file leaf-file-name="ToDoList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/bard/todolist_lab1/ToDoList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="105">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -2204,8 +2159,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/bard/todolist_lab1/ToDoList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="105">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
