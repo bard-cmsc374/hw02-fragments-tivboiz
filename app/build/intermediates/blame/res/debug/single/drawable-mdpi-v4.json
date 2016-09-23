@@ -2,9 +2,5 @@
     {
         "merged": "/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
         "source": "/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/src/main/res/drawable-mdpi/icon.png"
-    },
-    {
-        "merged": "/home/sven/AndroidStudioProjects/ToDoList_lab1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
-        "source": "/home/sven/AndroidStudioProjects/ToDoList_lab1/app/src/main/res/drawable-mdpi/icon.png"
     }
 ]
