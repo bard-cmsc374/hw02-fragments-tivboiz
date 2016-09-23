@@ -4,29 +4,29 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="240937905246253"
+    timestamp="272869095676660"
     token="-3271957946509181458"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="5260" />
+        duration="7841" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1441" />
+        duration="1394" />
     <task
         name="verifier"
-        duration="7" />
+        duration="17" />
 
     <artifact
         location="/Users/CharlieC/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="240937905246253"
+        timestamp="272869095676660"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/CharlieC/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/outputs/apk/app-debug.apk"
