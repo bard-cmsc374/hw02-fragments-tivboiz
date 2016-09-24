@@ -1,4 +1,4 @@
-#Fri Sep 23 11:43:32 EDT 2016
+#Sat Sep 24 14:00:57 EDT 2016
 base.0=/Users/CharlieC/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/CharlieC/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

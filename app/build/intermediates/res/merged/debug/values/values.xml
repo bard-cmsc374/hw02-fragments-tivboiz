@@ -3,5 +3,6 @@
     <string name="add_button">Add</string>
     <string name="add_item_hint">New To Do Item</string>
     <string name="app_name">ToDoList</string>
+    <string name="empty_edittext">You have not added anything</string>
     <string name="hello">Hello World, ToDoList</string>
 </resources>

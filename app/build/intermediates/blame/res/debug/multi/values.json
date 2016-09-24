@@ -64,8 +64,27 @@
                     "startLine": 5,
                     "startColumn": 4,
                     "startOffset": 201,
+                    "endColumn": 70,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "/Users/CharlieC/AndroidStudioProjects/hw02-fragments-tivboiz/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 70,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 272,
                     "endColumn": 55,
-                    "endOffset": 252
+                    "endOffset": 323
                 },
                 "from": {
                     "file": "/Users/CharlieC/AndroidStudioProjects/hw02-fragments-tivboiz/app/src/main/res/values/strings.xml",
