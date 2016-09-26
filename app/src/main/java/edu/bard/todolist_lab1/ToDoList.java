@@ -3,18 +3,52 @@ package edu.bard.todolist_lab1;
   Most basic Todo List in one activity, no fragments.
  */
 
+import android.content.Intent;
+import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentTransaction;
 import android.util.Log;
 
+import java.util.ArrayList;
+import java.util.List;
 
-public class ToDoList extends SingleFragmentActivity {
+
+public class ToDoList extends FragmentActivity {
+
+    //public ArrayList<String> mToDoItems;
+    private ListFragment lst;
 
     @Override
-    protected Fragment createFragment() {
-        return new AddFragment();
+    public void onCreate(Bundle stuff) {
+        super.onCreate(stuff);
+        setContentView(R.layout.main);
+
+        //Are fragments created yet?
+        FragmentManager fm = getSupportFragmentManager();
+        Fragment addfrg = fm.findFragmentById(R.id.add_container);
+        Fragment lstfrg = fm.findFragmentById(R.id.list_container);
+
+        if(addfrg == null || lstfrg == null){
+            FragmentTransaction trans = fm.beginTransaction();
+            if(addfrg == null){
+                trans.add(R.id.add_container, new AddFragment());
+            }
+            if (lstfrg == null){
+                lst = new ListFragment();//createListFragment();
+                Log.i("todolab", "newcreated");
+                trans.add(R.id.list_container, lst);
+            }
+            trans.commit();
+        }
     }
 
-    public static String TAG = "todolab";
+    public void update(String str){
+        lst.updateArrayList(str);
+    }
+
+    public static String TAG = "bum";
 
     protected void onStart() {
         super.onStart();

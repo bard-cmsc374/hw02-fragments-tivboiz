@@ -1,4 +1,7 @@
-#Fri Sep 23 11:43:32 EDT 2016
-base.0=/Users/CharlieC/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/Users/CharlieC/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+#Mon Sep 26 10:45:56 EDT 2016
+base.0=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0901ee0e9a6e9cfc58b77be6e13973a09ffdb0b1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_70f900095f25fefa8ad50565de90d03bcdacdcd3/classes.dex
+base.1=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_70f900095f25fefa8ad50565de90d03bcdacdcd3
+file.0=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0901ee0e9a6e9cfc58b77be6e13973a09ffdb0b1/classes.dex
