@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.text.Editable;
 import android.text.TextWatcher;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -59,10 +60,8 @@ public class AddFragment extends Fragment{
                     Toast.makeText(getActivity(), R.string.empty_edittext, Toast.LENGTH_SHORT)
                             .show();
                 } else {
-                    Intent intent = new Intent(getActivity().getBaseContext(),
-                            ToDoList.class);
-                    intent.putExtra("item", mToDoItem);
-                    getActivity().startActivity(intent);
+                    ((ToDoList)getActivity()).update(mToDoItem);
+                    mEditText.setText("");
                 }
             }
         });

@@ -6,62 +6,49 @@ package edu.bard.todolist_lab1;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
+import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.util.Log;
 
 import java.util.ArrayList;
+import java.util.List;
 
 
 public class ToDoList extends FragmentActivity {
 
-    public ArrayList<String> mToDoItems;
-    private static final String LIT_ARRAY = "lit";
+    //public ArrayList<String> mToDoItems;
+    private ListFragment lst;
 
     @Override
     public void onCreate(Bundle stuff) {
         super.onCreate(stuff);
         setContentView(R.layout.main);
 
-        AddFragment addfrg = new AddFragment();
-        ListFragment lstfrg = new ListFragment();
-
+        //Are fragments created yet?
         FragmentManager fm = getSupportFragmentManager();
-        FragmentTransaction trans = fm.beginTransaction();
+        Fragment addfrg = fm.findFragmentById(R.id.add_container);
+        Fragment lstfrg = fm.findFragmentById(R.id.list_container);
 
-        trans.add(R.id.add_container, addfrg, "ADDTAG");
-        trans.add(R.id.list_container, lstfrg, "LISTTAG");
-
-        Intent intent = getIntent();
-        String message = intent.getStringExtra("item");
-
-        if (stuff != null){
-            mToDoItems = stuff.getStringArrayList(LIT_ARRAY);
-            Log.i(LIT_ARRAY, "Updated");
-        } else {
-            mToDoItems = new ArrayList<String>();
-            Log.i(LIT_ARRAY, "Created");
+        if(addfrg == null || lstfrg == null){
+            FragmentTransaction trans = fm.beginTransaction();
+            if(addfrg == null){
+                trans.add(R.id.add_container, new AddFragment());
+            }
+            if (lstfrg == null){
+                lst = new ListFragment();//createListFragment();
+                Log.i("todolab", "newcreated");
+                trans.add(R.id.list_container, lst);
+            }
+            trans.commit();
         }
-
-        if (message != null){
-            mToDoItems.add(message);
-        }
-
-        Bundle bundle = new Bundle();
-        bundle.putStringArrayList("list", mToDoItems);
-        lstfrg.setArguments(bundle);
-
-        trans.commit();
     }
 
-    @Override
-    public void onSaveInstanceState(Bundle stuff){
-        super.onSaveInstanceState(stuff);
-        stuff.putStringArrayList(LIT_ARRAY, mToDoItems);
-        Log.i(LIT_ARRAY, "Saving");
+    public void update(String str){
+        lst.updateArrayList(str);
     }
 
-    public static String TAG = "todolab";
+    public static String TAG = "bum";
 
     protected void onStart() {
         super.onStart();

@@ -16,6 +16,8 @@ import java.util.ArrayList;
  */
 
 public class ListFragment extends Fragment {
+
+    private static final String SAVE_TAG = "saving";
     private ArrayList<String> mToDoItems; // list of items
     private ArrayAdapter<String> aa; // adapter from list to viewlist
     private ListView mListView;
@@ -23,6 +25,7 @@ public class ListFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        mToDoItems = new ArrayList<String>();
     }
 
     @Override
@@ -33,9 +36,6 @@ public class ListFragment extends Fragment {
         // Get references to UI widgets
         mListView = (ListView) v.findViewById(R.id.myListView);
 
-        // Create the ArrayList and the ArrayAdapter
-        mToDoItems = getArguments().getStringArrayList("list");
-        Log.i("LIST", mToDoItems.toString());
 
         aa = new ArrayAdapter<String>(getActivity(), android.R.layout.simple_list_item_1, mToDoItems);
 
@@ -44,6 +44,26 @@ public class ListFragment extends Fragment {
 
         return v;
 
+    }
+    public void updateArrayList(String str){
+        mToDoItems.add(str);
+        aa.notifyDataSetChanged();
+    }
+    @Override
+    public void onSaveInstanceState(Bundle stuff){
+        super.onSaveInstanceState(stuff);
+        stuff.putStringArrayList(SAVE_TAG, mToDoItems);
+        Log.i("todolab", mToDoItems.toString());
+        Log.i("todolab","Saving");
+    }
+
+    public static ListFragment newInstance(ArrayList<String> lst){
+        Bundle args = new Bundle();
+        args.putStringArrayList(SAVE_TAG, lst);
+
+        ListFragment lstfrg = new ListFragment();
+        lstfrg.setArguments(args);
+        return lstfrg;
     }
 
 }
