@@ -4,8 +4,9 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="83801909776121"
-    token="5079845775893414223" >
+    timestamp="133466829468289"
+    token="5079845775893414223"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -21,19 +22,21 @@
         duration="0" />
 
     <build
-        timestamp="77861672032300"
+        timestamp="133202108763970"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="83776560364662"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="133394785455336"
+        verifier="STATIC_INITIALIZER_CHANGE" >
         <artifact
             location="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
             type="DEX" />
     </build>
-    <build timestamp="83801909776121" />
+    <build
+        timestamp="133466829468289"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

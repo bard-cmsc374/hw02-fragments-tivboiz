@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Sep 26 10:45:36 EDT 2016
+#Tue Sep 27 10:11:28 EDT 2016
 2.base=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/res/resources-debug.ap_
 5.file=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/res/resources-debug.ap_/resources.arsc
 5.set=ANDROID_RESOURCE

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Sep 26 10:45:57 EDT 2016
+#Tue Sep 27 10:11:52 EDT 2016
 25.file=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
 25.base=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
 22.set=DEX
@@ -45,7 +45,7 @@ count=30
 25.set=DEX
 17.base=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/res/resources-debug.ap_
 10.file=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
-28.file=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+28.file=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/res/resources-debug.ap_/resources.arsc
 10.base=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/res/resources-debug.ap_
 28.base=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/res/resources-debug.ap_
 14.set=DEX
@@ -61,7 +61,7 @@ count=30
 9.base=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
 18.base=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_a9ce691130bd40ef1bb57da3b04cd5857d3627b0
 11.file=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_eea09a762bd37a9ed83f4d4cb75a851f7c6e4de1/classes.dex
-29.file=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+29.file=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
 11.base=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_eea09a762bd37a9ed83f4d4cb75a851f7c6e4de1
 29.base=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/res/resources-debug.ap_
 24.set=DEX

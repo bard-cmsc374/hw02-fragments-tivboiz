@@ -37,7 +37,6 @@ public class ToDoList extends FragmentActivity {
             }
             if (lstfrg == null){
                 lst = new ListFragment();//createListFragment();
-                Log.i("todolab", "newcreated");
                 trans.add(R.id.list_container, lst);
             }
             trans.commit();
@@ -48,7 +47,7 @@ public class ToDoList extends FragmentActivity {
         lst.updateArrayList(str);
     }
 
-    public static String TAG = "bum";
+    public static String TAG = "todolist";
 
     protected void onStart() {
         super.onStart();

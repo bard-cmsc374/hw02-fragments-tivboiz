@@ -49,21 +49,5 @@ public class ListFragment extends Fragment {
         mToDoItems.add(str);
         aa.notifyDataSetChanged();
     }
-    @Override
-    public void onSaveInstanceState(Bundle stuff){
-        super.onSaveInstanceState(stuff);
-        stuff.putStringArrayList(SAVE_TAG, mToDoItems);
-        Log.i("todolab", mToDoItems.toString());
-        Log.i("todolab","Saving");
-    }
-
-    public static ListFragment newInstance(ArrayList<String> lst){
-        Bundle args = new Bundle();
-        args.putStringArrayList(SAVE_TAG, lst);
-
-        ListFragment lstfrg = new ListFragment();
-        lstfrg.setArguments(args);
-        return lstfrg;
-    }
 
 }
