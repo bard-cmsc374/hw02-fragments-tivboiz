@@ -3,129 +3,129 @@
 
     <item
         is-multidex="true"
-        jar="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="35ae864f3d754c9ed14c5a9529ebf076e74f8eb1">
-        <dex dex="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0901ee0e9a6e9cfc58b77be6e13973a09ffdb0b1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_860dfa66919e0720170bdda88bdf60a5c987749a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_09a3274501234e8bf2a13657de16b529ab943ec5/classes.dex" />
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_0671a2a266882c2ebd00562d22722a0868b21f4c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_cfbf5896e669159f12ae92ed370dc3e11bb5a55c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_a9ce691130bd40ef1bb57da3b04cd5857d3627b0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="7e842904764be2779bac2981fc0ee83f71ecd15b">
-        <dex dex="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_70f900095f25fefa8ad50565de90d03bcdacdcd3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_51a06087d9582879e8e583431fade23feee23674/classes.dex" />
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_c6e515336e029f87702d2814083020023e02bb60/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e315dedff2c2bf09715d599a44deae6367ff90a0/classes.dex" />
+        sha1="c2f150dbd1c9049026bd253d75b9c2c056cffef5">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c02ed3030b1491b162dd0289cb1c5f661f3d5370/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/eliasposen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_7ca5b657ead4c14ada6bc5e394df29feb8c18d26/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_94e8fa1b742b91f47225e79752f97993c162f52c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_95be081f58a9409c7e68dd4d56c51b69f5eb1115/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b0207d7cf5e42a37b32c7f2d249c3c6ea22ff451/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_eea09a762bd37a9ed83f4d4cb75a851f7c6e4de1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f33220b50a6494ed5df97fc82bad2a2062c37fb0/classes.dex" />
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1e46745a0582c9d99a30dc6c02aeb74a593ac0e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_55f630ca3a8566995ede8f6647b0a8b79218ae48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_dd26502118498da683d955701cb7dca62d6f0b7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9020ccd7f47302c6958b992858cb822fa3c5d3c4">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_38b57a9bbcbfb1b5941104d3c041b5cd48c77adb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8eb9c51b641d5974aed4bb308adac5a0085058f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_43ff6c376b53ea361114c197548d05733a372feb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sven/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_14c3f837b37791535de393fcadfe62e820ae2f78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a8ed9e267267a6c4f64896166613f6fd484fe0ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_2a831df448bad42bbdbff24e5ec6f172b93a332c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_af1b89b79c58deea67138b90a2e2583c38758f0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6d91adcc23c721d05f5feddca3341391d1ecd50a/classes.dex" />
     </item>
 
 </items>

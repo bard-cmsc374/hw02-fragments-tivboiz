@@ -1,7 +1,7 @@
-#Tue Sep 27 10:11:52 EDT 2016
-base.0=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0901ee0e9a6e9cfc58b77be6e13973a09ffdb0b1
+#Sun Oct 23 22:21:59 EDT 2016
+base.0=/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c02ed3030b1491b162dd0289cb1c5f661f3d5370
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_70f900095f25fefa8ad50565de90d03bcdacdcd3/classes.dex
-base.1=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_70f900095f25fefa8ad50565de90d03bcdacdcd3
-file.0=/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0901ee0e9a6e9cfc58b77be6e13973a09ffdb0b1/classes.dex
+file.1=/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_38b57a9bbcbfb1b5941104d3c041b5cd48c77adb/classes.dex
+base.1=/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_38b57a9bbcbfb1b5941104d3c041b5cd48c77adb
+file.0=/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c02ed3030b1491b162dd0289cb1c5f661f3d5370/classes.dex

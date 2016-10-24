@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/src/main/res/layout/main.xml"
+        "merged": "/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/res/merged/debug/layout/fragment_list.xml",
+        "source": "/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/src/main/res/layout/fragment_list.xml"
     },
     {
-        "merged": "/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/res/merged/debug/layout/fragment_add.xml",
-        "source": "/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/src/main/res/layout/fragment_add.xml"
+        "merged": "/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/res/merged/debug/layout/fragment_add.xml",
+        "source": "/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/src/main/res/layout/fragment_add.xml"
     },
     {
-        "merged": "/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/res/merged/debug/layout/fragment_list.xml",
-        "source": "/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/src/main/res/layout/fragment_list.xml"
+        "merged": "/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/src/main/res/layout/main.xml"
     }
 ]

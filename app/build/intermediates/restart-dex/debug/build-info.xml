@@ -1,42 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     api-level="23"
-    density="420dpi"
+    density="xxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="133466829468289"
-    token="5079845775893414223"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="35431036194516"
+    token="-5534356092765885950"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="605" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="265" />
     <task
         name="verifier"
-        duration="0" />
+        duration="3" />
+
+    <artifact
+        location="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="133202108763970"
+        timestamp="35431036194516"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/outputs/apk/app-debug.apk"
+            location="/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="133394785455336"
-        verifier="STATIC_INITIALIZER_CHANGE" >
-        <artifact
-            location="/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="133466829468289"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

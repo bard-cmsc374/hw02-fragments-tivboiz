@@ -60,7 +60,7 @@ public class AddFragment extends Fragment{
                     Toast.makeText(getActivity(), R.string.empty_edittext, Toast.LENGTH_SHORT)
                             .show();
                 } else {
-                    ((ToDoList)getActivity()).update(mToDoItem);
+                    ((ToDoList)getActivity()).update(mToDoItem); // XX what is this for?
                     mEditText.setText("");
                 }
             }

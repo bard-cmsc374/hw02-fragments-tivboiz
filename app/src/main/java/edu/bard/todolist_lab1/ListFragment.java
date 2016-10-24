@@ -45,6 +45,7 @@ public class ListFragment extends Fragment {
         return v;
 
     }
+    // XX Comment helpful here.  What is this for?
     public void updateArrayList(String str){
         mToDoItems.add(str);
         aa.notifyDataSetChanged();

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 93
                 },
                 "from": {
-                    "file": "/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/src/main/res/values/strings.xml",
+                    "file": "/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 150
                 },
                 "from": {
-                    "file": "/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/src/main/res/values/strings.xml",
+                    "file": "/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 196
                 },
                 "from": {
-                    "file": "/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/src/main/res/values/strings.xml",
+                    "file": "/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 267
                 },
                 "from": {
-                    "file": "/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/src/main/res/values/strings.xml",
+                    "file": "/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "/Users/eliasposen/AndroidStudioProjects/hw02-fragments-tivboiz/app/src/main/res/values/strings.xml",
+                    "file": "/home/sven/courses/374/ASgrading/hw02-fragments-tivboiz/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
